@@ -1,0 +1,10 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "outFile": "./dist/output.js",
+    },
+    "include": [
+        "./.esp_utils/espruino.d.ts",
+        "./src/*.ts"
+    ]
+}

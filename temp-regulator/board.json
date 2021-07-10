@@ -1,0 +1,5 @@
+{
+    "port": "/dev/tty.usbserial-410",
+    "speed": 115200,
+    "file": null
+}

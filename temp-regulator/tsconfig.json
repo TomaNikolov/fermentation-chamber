@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "removeComments": true
+    },
+    "include": [
+        "./.esp_utils/*.ts"
+    ]
+}
